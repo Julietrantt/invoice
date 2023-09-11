@@ -1,0 +1,12 @@
+/* .sidebar{
+    height:100vh;
+    background-color: blue;
+   
+
+} */
+
+.sidebar{
+min-width: 70px !important;
+max-width: 70px;
+}
+
